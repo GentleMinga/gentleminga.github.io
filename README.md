@@ -1,2 +1,3 @@
 # gentleminga.github.io
-readme for gentleminga.github.io
+
+Harder,Better,Faster,Stronger.
